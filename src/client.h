@@ -21,8 +21,8 @@
  */
 
 #include "platform/util/StdString.h"
-#include "kodi/libXBMC_addon.h"
-#include "kodi/libXBMC_pvr.h"
+#include "mrmc/libXBMC_addon.h"
+#include "mrmc/libXBMC_pvr.h"
 
 #define DEFAULT_HOST  "127.0.0.1"
 #define DEFAULT_PORT  80
